@@ -78,3 +78,6 @@
 2019-01-18 19:46:24,835 INFO: Flaskblog startup [in /Users/alex/PycharmProjects/flasktutorial/app/__init__.py:81]
 2019-01-19 12:24:35,652 INFO: Flaskblog startup [in /Users/alex/PycharmProjects/flasktutorial/app/__init__.py:81]
 2019-01-19 12:24:39,648 INFO: Flaskblog startup [in /Users/alex/PycharmProjects/flasktutorial/app/__init__.py:81]
+2019-01-19 16:23:33,920 INFO: Flaskblog startup [in /Users/alex/PycharmProjects/flaskweb-base/app/__init__.py:84]
+2019-01-19 16:23:37,035 INFO: Flaskblog startup [in /Users/alex/PycharmProjects/flaskweb-base/app/__init__.py:84]
+2019-01-19 16:23:41,139 INFO: Flaskblog startup [in /Users/alex/PycharmProjects/flaskweb-base/app/__init__.py:84]
